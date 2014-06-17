@@ -1,6 +1,6 @@
-Swifty News
+Enlace Catolico RSS
 ===========
 
-**Swifty News** is a very simple app which consumes Hacker News rss feed. It entirely build with swift.
+**Enlace Catolico ** es una app sencilla que consume el rss de ave maria tv. Fue desarrollado como aporte al aprendizaje del lenguaje swift.
 
-<p align="center"><img src="screenshot.png"></p>
+
